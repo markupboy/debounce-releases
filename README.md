@@ -1,5 +1,7 @@
 # Debounce
 
+![Screenshot](https://raw.githubusercontent.com/markupboy/debounce-releases/main/.github/images/debounce.png)
+
 Debounce is a small menu bar app for macOS that quiets the noise from GitHub. Instead of a stream of notifications, it shows the open pull requests that involve you, sorted by what each one needs next: what's waiting on you, what you're waiting on, and what's ready to go.
 
 This repository hosts Debounce's signed and notarized builds, along with the update feed the app checks for new versions.
