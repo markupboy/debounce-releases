@@ -30,9 +30,9 @@ Right-click the menu bar icon for Settings, Check for Updates, and Quit.
 
 ## Installing
 
-1. Download the zip from the [latest release](https://github.com/markupboy/debounce-releases/releases/latest).
-2. Unzip it and move `Debounce.app` to your Applications folder.
-3. Open it. The Debounce icon appears in your menu bar.
+1. Download the DMG from the [latest release](https://github.com/markupboy/debounce-releases/releases/latest).
+2. Open it and drag Debounce into your Applications folder.
+3. Open Debounce from Applications. Its icon appears in your menu bar.
 
 ## Signing in
 
