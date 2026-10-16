@@ -1,4 +1,4 @@
-# Debounce
+# ![Icon](https://raw.githubusercontent.com/markupboy/debounce-releases/main/.github/images/debounce-icon.png) Debounce
 
 ![Screenshot](https://raw.githubusercontent.com/markupboy/debounce-releases/main/.github/images/debounce.png)
 
